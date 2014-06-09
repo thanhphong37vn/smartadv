@@ -1,0 +1,65 @@
+<?php
+	//include all DAO files
+	require_once('class/sql/Connection.class.php');
+	require_once('class/sql/ConnectionFactory.class.php');
+	require_once('class/sql/ConnectionProperty.class.php');
+	require_once('class/sql/QueryExecutor.class.php');
+	require_once('class/sql/Transaction.class.php');
+	require_once('class/sql/SqlQuery.class.php');
+	require_once('class/core/ArrayList.class.php');
+	require_once('class/dao/DAOFactory.class.php');
+ 	
+	require_once('class/dao/TblAdminDAO.class.php');
+	require_once('class/dto/TblAdmin.class.php');
+	require_once('class/mysql/TblAdminMySqlDAO.class.php');
+	require_once('class/mysql/ext/TblAdminMySqlExtDAO.class.php');
+	require_once('class/dao/TblBannerDAO.class.php');
+	require_once('class/dto/TblBanner.class.php');
+	require_once('class/mysql/TblBannerMySqlDAO.class.php');
+	require_once('class/mysql/ext/TblBannerMySqlExtDAO.class.php');
+	require_once('class/dao/TblChitietdhDAO.class.php');
+	require_once('class/dto/TblChitietdh.class.php');
+	require_once('class/mysql/TblChitietdhMySqlDAO.class.php');
+	require_once('class/mysql/ext/TblChitietdhMySqlExtDAO.class.php');
+	require_once('class/dao/TblDonhangDAO.class.php');
+	require_once('class/dto/TblDonhang.class.php');
+	require_once('class/mysql/TblDonhangMySqlDAO.class.php');
+	require_once('class/mysql/ext/TblDonhangMySqlExtDAO.class.php');
+	require_once('class/dao/TblGopyDAO.class.php');
+	require_once('class/dto/TblGopy.class.php');
+	require_once('class/mysql/TblGopyMySqlDAO.class.php');
+	require_once('class/mysql/ext/TblGopyMySqlExtDAO.class.php');
+	require_once('class/dao/TblHinhanhDAO.class.php');
+	require_once('class/dto/TblHinhanh.class.php');
+	require_once('class/mysql/TblHinhanhMySqlDAO.class.php');
+	require_once('class/mysql/ext/TblHinhanhMySqlExtDAO.class.php');
+	require_once('class/dao/TblInfoDAO.class.php');
+	require_once('class/dto/TblInfo.class.php');
+	require_once('class/mysql/TblInfoMySqlDAO.class.php');
+	require_once('class/mysql/ext/TblInfoMySqlExtDAO.class.php');
+	require_once('class/dao/TblLoaispDAO.class.php');
+	require_once('class/dto/TblLoaisp.class.php');
+	require_once('class/mysql/TblLoaispMySqlDAO.class.php');
+	require_once('class/mysql/ext/TblLoaispMySqlExtDAO.class.php');
+	require_once('class/dao/TblNhasxDAO.class.php');
+	require_once('class/dto/TblNhasx.class.php');
+	require_once('class/mysql/TblNhasxMySqlDAO.class.php');
+	require_once('class/mysql/ext/TblNhasxMySqlExtDAO.class.php');
+	require_once('class/dao/TblQuangcaoDAO.class.php');
+	require_once('class/dto/TblQuangcao.class.php');
+	require_once('class/mysql/TblQuangcaoMySqlDAO.class.php');
+	require_once('class/mysql/ext/TblQuangcaoMySqlExtDAO.class.php');
+	require_once('class/dao/TblSanphamDAO.class.php');
+	require_once('class/dto/TblSanpham.class.php');
+	require_once('class/mysql/TblSanphamMySqlDAO.class.php');
+	require_once('class/mysql/ext/TblSanphamMySqlExtDAO.class.php');
+	require_once('class/dao/TblThanhvienDAO.class.php');
+	require_once('class/dto/TblThanhvien.class.php');
+	require_once('class/mysql/TblThanhvienMySqlDAO.class.php');
+	require_once('class/mysql/ext/TblThanhvienMySqlExtDAO.class.php');
+	require_once('class/dao/TblThanhvienTempDAO.class.php');
+	require_once('class/dto/TblThanhvienTemp.class.php');
+	require_once('class/mysql/TblThanhvienTempMySqlDAO.class.php');
+	require_once('class/mysql/ext/TblThanhvienTempMySqlExtDAO.class.php');
+
+?>

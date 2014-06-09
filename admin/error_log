@@ -1,0 +1,47 @@
+[20-Dec-2013 11:13:45 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:13:48 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:13:51 Asia/Bangkok] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:16:28 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 9
+[20-Dec-2013 11:16:32 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 9
+[20-Dec-2013 11:16:34 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 9
+[20-Dec-2013 11:16:46 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[20-Dec-2013 11:16:58 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 9
+[20-Dec-2013 11:17:18 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 9
+[20-Dec-2013 11:18:46 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:18:49 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:19:55 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:20:23 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[20-Dec-2013 11:21:42 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:24:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:27:17 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:27:20 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:27:26 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[20-Dec-2013 11:27:37 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:27:56 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:27:59 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:29:32 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:33:41 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:33:46 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '<' in /home/thietbim/public_html/admin/show_admin.php on line 10
+[20-Dec-2013 11:36:34 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[20-Dec-2013 11:44:27 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[20-Dec-2013 11:45:01 Asia/Bangkok] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: Unable to access images_products/1_3.JPG in /home/thietbim/public_html/admin/delete_product.php on line 8
+[20-Dec-2013 11:51:36 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[20-Dec-2013 12:06:28 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[20-Dec-2013 12:06:42 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[20-Dec-2013 12:06:55 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[21-Dec-2013 13:41:21 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[21-Dec-2013 13:41:55 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[21-Dec-2013 14:24:21 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[22-Dec-2013 09:03:42 Asia/Bangkok] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: Unable to access images_products/Desert.jpg in /home/thietbim/public_html/admin/delete_product.php on line 8
+[22-Dec-2013 11:01:41 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[22-Dec-2013 12:35:09 Asia/Bangkok] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access update_info.php in /home/thietbim/public_html/admin/index.php on line 150
+[22-Dec-2013 12:35:09 Asia/Bangkok] PHP Warning:  include(update_info.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/thietbim/public_html/admin/index.php on line 150
+[22-Dec-2013 12:35:09 Asia/Bangkok] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access update_info.php in /home/thietbim/public_html/admin/index.php on line 150
+[22-Dec-2013 12:35:09 Asia/Bangkok] PHP Warning:  include(update_info.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/thietbim/public_html/admin/index.php on line 150
+[22-Dec-2013 12:35:09 Asia/Bangkok] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'update_info.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/thietbim/public_html/admin/index.php on line 150
+[23-Dec-2013 06:23:17 Asia/Bangkok] PHP Warning:  unlink() [<a href='function.unlink'>function.unlink</a>]: Unable to access ../https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR2Ux4_V0JIAJoCXx33O6AsczK4k2mycNyMqJhihAUTHFnlRAqT in /home/thietbim/public_html/admin/delete_adv.php on line 7
+[23-Dec-2013 06:27:10 Asia/Bangkok] PHP Warning:  unlink(../images_ads/banner_header_left_4.png) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/thietbim/public_html/admin/delete_adv.php on line 7
+[23-Dec-2013 06:37:10 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
+[23-Dec-2013 06:54:34 Asia/Bangkok] PHP Warning:  unlink(../images_ads/banner_header_left.png) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/thietbim/public_html/admin/delete_adv.php on line 7
+[23-Dec-2013 06:54:39 Asia/Bangkok] PHP Warning:  unlink(../images_ads/banner_header_right.png) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/thietbim/public_html/admin/delete_adv.php on line 7
+[23-Dec-2013 08:41:13 Asia/Bangkok] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/thietbim/public_html/admin/logout.php on line 3
